@@ -1,0 +1,6 @@
+C:\Users\Bradley\Documents\SharpDevelop Projects\Lists\List2\bin\Debug\List2.exe.config
+C:\Users\Bradley\Documents\SharpDevelop Projects\Lists\List2\bin\Debug\List2.exe
+C:\Users\Bradley\Documents\SharpDevelop Projects\Lists\List2\bin\Debug\List2.pdb
+C:\Users\Bradley\Documents\SharpDevelop Projects\Lists\List2\obj\Debug\List2.csprojResolveAssemblyReference.cache
+C:\Users\Bradley\Documents\SharpDevelop Projects\Lists\List2\obj\Debug\List2.exe
+C:\Users\Bradley\Documents\SharpDevelop Projects\Lists\List2\obj\Debug\List2.pdb

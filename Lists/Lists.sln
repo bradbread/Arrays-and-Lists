@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{3D00DB30-AB86-456C-B6DE-B85D0D89AB81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List2", "List2\List2.csproj", "{E1D88958-C43F-4FB1-9541-DA3A377B70B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D00DB30-AB86-456C-B6DE-B85D0D89AB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D00DB30-AB86-456C-B6DE-B85D0D89AB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D00DB30-AB86-456C-B6DE-B85D0D89AB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D00DB30-AB86-456C-B6DE-B85D0D89AB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D88958-C43F-4FB1-9541-DA3A377B70B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D88958-C43F-4FB1-9541-DA3A377B70B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D88958-C43F-4FB1-9541-DA3A377B70B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D88958-C43F-4FB1-9541-DA3A377B70B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

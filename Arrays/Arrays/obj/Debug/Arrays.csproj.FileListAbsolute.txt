@@ -1,0 +1,6 @@
+C:\Users\102673815\Documents\SharpDevelop Projects\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\102673815\Documents\SharpDevelop Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\102673815\Documents\SharpDevelop Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\102673815\Documents\SharpDevelop Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\102673815\Documents\SharpDevelop Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\102673815\Documents\SharpDevelop Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
